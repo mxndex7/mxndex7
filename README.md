@@ -27,7 +27,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <br><br>
 <br>
-![mxndex7 Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mxndex7&layout=compact)
 
 <br><br>
 
