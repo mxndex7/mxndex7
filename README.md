@@ -4,5 +4,5 @@ Graduado em ADS | Estudante de Engenharia de Software | Desenvolvedor de Softwar
 
 Compartilho projetos, soluções de software e experiências com tecnologia. Sinta-se à vontade para explorar meus repositórios e contribuir com sugestões.
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,ts,git,docker,react,flask,powershell,windows,bash" />
+  <img src="https://skillicons.dev/icons?i=ts,docker,css,windows,powershell,react,python,js,html,git,nodejs,flask,bash" />
 
